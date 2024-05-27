@@ -370,7 +370,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Ingrese contrase\xF1a"
+  m_Text: "Ingrese contrase\xF1a..."
 --- !u!222 &458060095
 CanvasRenderer:
   m_ObjectHideFlags: 0
